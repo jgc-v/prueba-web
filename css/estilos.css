@@ -1,0 +1,50 @@
+/* Navegador */
+.navbar {
+  background-color: #3e4451;
+}
+.nav-item a, a.navbar-brand{
+  color: white;
+  font-size: 20px;
+}
+
+
+/* Carousel */
+.carousel-inner{
+  width: 100%;
+  max-height: 10%;
+}
+
+/* Iconos */
+.i-servicios{
+    font-size: 3em;
+}
+
+/* Imagenes */
+.img-lados{
+    width: 550px;
+    height: 400px;
+}
+
+.img-footer{
+  width: 200px;
+  height: 200px;
+}
+
+/* Listas */
+li{
+  list-style: none;
+  margin: 10px 0px;
+}
+li a{
+  text-decoration: none;
+  color: black;
+}
+
+/* Accordion */
+.accordion-bg{background: #3e4451;}
+
+#accordionExample {
+  max-width: 75%; /* Ajusta el ancho máximo del acordeón */
+  margin: 0 auto; /* Centra el acordeón horizontalmente */
+}
+
